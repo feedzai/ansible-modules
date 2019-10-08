@@ -1,3 +1,6 @@
 # IntelliJ IDEA artifacts
 .idea/
 *.iml
+
+# Build artifacts
+target/
