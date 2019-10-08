@@ -34,4 +34,4 @@ Using `maven-assembly-plugin` you can unpack the dependency in the desired folde
 </dependencySet>
 ```
 
-[1]: (https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html)
+[1]: https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html
