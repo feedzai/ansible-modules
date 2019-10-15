@@ -15,6 +15,7 @@
 
     <name>Ansible Modules</name>
     <description>Feedzai collection of Ansible modules.</description>
+    <url>https://github.com/feedzai/ansible-modules</url>
 
     <scm>
         <url>https://github.com/feedzai/ansible-modules</url>
