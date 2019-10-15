@@ -1,5 +1,7 @@
 # Ansible Modules
 
+[![Build Status](https://travis-ci.com/feedzai/ansible-modules.svg?branch=master)](https://travis-ci.com/feedzai/ansible-modules)
+
 Feedzai collection of non core Ansible modules.
 
 ## How-to
