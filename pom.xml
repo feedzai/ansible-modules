@@ -30,6 +30,14 @@
         </license>
     </licenses>
 
+    <developers>
+        <developer>
+            <name>Feedzai Customer Success</name>
+            <organization>Feedzai</organization>
+            <url>https://github.com/feedzai/ansible-modules/issues</url>
+        </developer>
+    </developers>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
