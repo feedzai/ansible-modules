@@ -13,6 +13,6 @@ after_success:
  
 deploy:
   provider: script
-  script: deploy/deploy.sh
+  script: bash deploy/deploy.sh
   on:
     tags: true
